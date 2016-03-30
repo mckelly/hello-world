@@ -1,2 +1,5 @@
 # hello-world
-Test porject
+Test project
+
+This is a test project to check that everything makes sense
+
